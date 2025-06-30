@@ -5,7 +5,7 @@ the ESP-PROG, to determine the number and order of the
 colours.
 First you must upload the program with out the ESP-PROG
 connected.
-Then connect the ESP-PROG, and uncomment the LAST 2 lines.
+Then connect the ESP-PROG, and uncomment the LAST 2 lines in Platformio.ini
 After the UPLOAD option is finished, choose:
 RUN/DEBUG. By setting breakpoints you can determine the
 number and order of the colours displayed.
